@@ -68,7 +68,7 @@ namespace NumberGuesser
         {
             string appName = "Number Guesser";
             string appVersion = "1.0.0";
-            string appAuthor = "Brad Traversy";
+            string appAuthor = "Merve Satar";
 
             Console.ForegroundColor = ConsoleColor.Blue;
 
